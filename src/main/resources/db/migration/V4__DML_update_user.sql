@@ -1,0 +1,1 @@
+update user set phone ='111111111' where first_name='Anna' and last_name='Kowalczyk';
